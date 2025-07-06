@@ -7,7 +7,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Atliq is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Atliq is going to reach out to Nike via a cold email.
 
 ##
-![img.png](img/architecture.png)
+![img.png](https://github.com/Chandu7a7/Cold-Mail--Generator/blob/main/cold%20email%20generator/img/img.png)
 
 ## Architecture Diagram
 ![img.png](https://github.com/Chandu7a7/Cold-Mail--Generator/blob/main/cold%20email%20generator/img/architecture.png)
@@ -29,7 +29,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
    ```
    
 
-Copyright (C) Codebasics Inc. All rights reserved.
+Copyright (C) chandu7a7. All rights reserved.
 
 **Additional Terms:**
 This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
